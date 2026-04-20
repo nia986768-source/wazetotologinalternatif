@@ -4,7 +4,7 @@ import { useState } from 'react';
 const D = {
   brand: 'WAZETOTO',
   domain: 'wazetotologinalternatif.com',
-  logo: 'https://i.imgur.com/lubVHpM.png',
+  logo: 'https://ik.imagekit.io/md2fquuug/waze_pp.png',
   linkLogin: 'https://loginwap.gelapsekali.com/waze',
   linkDaftar: 'https://daftarwap.gelapsekali.com/waze',
   amphtml: 'wazetotologinalternatif.com',
